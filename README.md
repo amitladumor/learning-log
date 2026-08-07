@@ -12,3 +12,4 @@
 - 3 August 2026: Cleared SQL CHECK constraint and SQL functions.
 - 4 August 2026: Cleared SQL - DATEDIFF, Mathematical functions, Auto commit & Transactions, Primary Key vs Foreign Key.
 - 5 August 2026: Cleared SQL - Types of JOINs (INNER, LEFT, RIGHT, FULL, CROSS).
+- 7 August 2026: Cleared SQL - Stored Procedures, Triggers, Logical Operators, Wildcards, LIMIT with OFFSET, CHANGE vs MODIFY.
