@@ -14,4 +14,4 @@
 - 5 August 2026: Cleared SQL - Types of JOINs (INNER, LEFT, RIGHT, FULL, CROSS).
 - 6 August 2026: No study today.
 - 7 August 2026: Cleared SQL - Stored Procedures, Triggers, Logical Operators, Wildcards, LIMIT with OFFSET, CHANGE vs MODIFY.
-- 8 August 2026: Solved LeetCode SQL problem - 175. Combine Two Tables (LEFT JOIN) - Accepted.
+- 8 August 2026: Solved LeetCode SQL problem - 175. Combine Two Tables (LEFT JOIN) - Accepted.Solved LeetCode SQL - 175. Combine Two Tables + 181. Employees Earning More Than Their Managers.
