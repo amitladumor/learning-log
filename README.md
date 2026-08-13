@@ -2,7 +2,7 @@
 
 **Started:** 30 July 2026  
 **Current Status:** learning  
-**Mode:** Theory only
+**Mode:** Theory only after practice 
 
 ### Log
 
