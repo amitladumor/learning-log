@@ -1,7 +1,7 @@
 # Data Analytics Learning Log
 
 **Started:** 30 July 2026  
-**Current Status:** No laptop yet (coming in \~3 months)  
+**Current Status:** learning  
 **Mode:** Theory only
 
 ### Log
