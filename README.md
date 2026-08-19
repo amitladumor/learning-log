@@ -18,15 +18,15 @@
 - 13 August 2026: Solved LeetCode SQL - 183. Customers Who Never Order, 196. Delete Duplicate Emails, 197. Rising Temperature.
 - 14 August 2026 : solved leetCode SQL - 184.
 department Highest salary.
-15 August 2026 : solved leetCode SQL - 176.
+- 15 August 2026 : solved leetCode SQL - 176.
 second Highest salary.
-16 August 2026 : solved leetCode SQL - 177.
+- 16 August 2026 : solved leetCode SQL - 177.
 Nth Highest salary, 178. Rank Score.
-17 August 2026 : solved leetCode SQL - 178.
+- 17 August 2026 : solved leetCode SQL - 178.
 Rank Score,180. Consecutive Numbers.
-18 August 2026 : solved leetCode SQL - 570.
+- 18 August 2026 : solved leetCode SQL - 570.
 Managers with at least 5 Direct Report, 596.
 Classes With at least 5 Students.
-19 August 2026 : solved leetCode SQL - 619.
+- 19 August 2026 : solved leetCode SQL - 619.
 Biggest Single Number, 1873. Calculate Special Bonus.
 
